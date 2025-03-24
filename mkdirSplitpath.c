@@ -6,9 +6,9 @@ extern struct NODE* cwd;
 //make directory
 void mkdir(char pathName[]){
 
-    // TO BE IMPLEMENTED
-    //
-    // YOUR CODE TO REPLACE THE PRINTF FUNCTION BELOW
+    char *dirname(char *path);
+    char *basename(char *path);
+    char *absolute = *basename; 
 
     printf("TO BE IMPLEMENTED\n");
 
