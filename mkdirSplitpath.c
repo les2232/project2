@@ -6,10 +6,6 @@ extern struct NODE* cwd;
 //make directory
 void mkdir(char pathName[]){
 
-    char *dirname(char *path);
-    char *basename(char *path);
-    char *absolute = *basename; 
-
     printf("TO BE IMPLEMENTED\n");
 
     return;
